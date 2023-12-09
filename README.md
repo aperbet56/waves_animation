@@ -6,7 +6,7 @@ Création d'une animation waves (vagues) en HTML5 et CSS3
 
 ## Démonstration
 
-Lien vers le projet :
+Lien vers le projet : https://aperbet56.github.io/waves_animation/
 
 ## Développez avec
 
